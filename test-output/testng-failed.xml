@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Hybrid Automation Framework of Web Application]">
+  <test name="Naveen Automation Lab">
+    <classes>
+      <class name="com.ecommerce.qa.testcases.LoginPageTest"/>
+      <class name="com.ecommerce.qa.testcases.MyAccountPageTest"/>
+      <class name="com.ecommerce.qa.testcases.DesktopPageTest"/>
+    </classes>
+  </test> <!-- Naveen Automation Lab -->
+</suite> <!-- Failed suite [Hybrid Automation Framework of Web Application] -->

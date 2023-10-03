@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Hybrid Automation Framework of Web Application" duration-ms="22609" started-at="2023-10-03T11:57:29Z" finished-at="2023-10-03T11:57:51Z">
+    <groups>
+    </groups>
+    <test name="Naveen Automation Lab" duration-ms="22609" started-at="2023-10-03T11:57:29Z" finished-at="2023-10-03T11:57:51Z">
+      <class name="com.ecommerce.qa.testcases.MyAccountPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ecommerce.qa.testcases.MyAccountPageTest@64616ca2]" name="setUp" is-config="true" duration-ms="3127" started-at="2023-10-03T17:27:43Z" finished-at="2023-10-03T17:27:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyMyAccountPageTitle()[pri:1, instance:com.ecommerce.qa.testcases.MyAccountPageTest@64616ca2]" name="verifyMyAccountPageTitle" duration-ms="15" started-at="2023-10-03T17:27:46Z" finished-at="2023-10-03T17:27:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMyAccountPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ecommerce.qa.testcases.MyAccountPageTest@64616ca2]" name="tearDown" is-config="true" duration-ms="728" started-at="2023-10-03T17:27:46Z" finished-at="2023-10-03T17:27:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ecommerce.qa.testcases.MyAccountPageTest@64616ca2]" name="setUp" is-config="true" duration-ms="3436" started-at="2023-10-03T17:27:47Z" finished-at="2023-10-03T17:27:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyDeskTopLinkTest()[pri:2, instance:com.ecommerce.qa.testcases.MyAccountPageTest@64616ca2]" name="verifyDeskTopLinkTest" duration-ms="75" started-at="2023-10-03T17:27:51Z" finished-at="2023-10-03T17:27:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDeskTopLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ecommerce.qa.testcases.MyAccountPageTest@64616ca2]" name="tearDown" is-config="true" duration-ms="711" started-at="2023-10-03T17:27:51Z" finished-at="2023-10-03T17:27:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecommerce.qa.testcases.MyAccountPageTest -->
+      <class name="com.ecommerce.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ecommerce.qa.testcases.LoginPageTest@3b81a1bc]" name="setUp" is-config="true" duration-ms="6399" started-at="2023-10-03T17:27:29Z" finished-at="2023-10-03T17:27:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.ecommerce.qa.testcases.LoginPageTest@3b81a1bc]" name="loginPageTitleTest" duration-ms="53" started-at="2023-10-03T17:27:35Z" finished-at="2023-10-03T17:27:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ecommerce.qa.testcases.LoginPageTest@3b81a1bc]" name="tearDown" is-config="true" duration-ms="819" started-at="2023-10-03T17:27:35Z" finished-at="2023-10-03T17:27:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ecommerce.qa.testcases.LoginPageTest@3b81a1bc]" name="setUp" is-config="true" duration-ms="2469" started-at="2023-10-03T17:27:36Z" finished-at="2023-10-03T17:27:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="AppLogoImageTest()[pri:2, instance:com.ecommerce.qa.testcases.LoginPageTest@3b81a1bc]" name="AppLogoImageTest" duration-ms="78" started-at="2023-10-03T17:27:39Z" finished-at="2023-10-03T17:27:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppLogoImageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ecommerce.qa.testcases.LoginPageTest@3b81a1bc]" name="tearDown" is-config="true" duration-ms="721" started-at="2023-10-03T17:27:39Z" finished-at="2023-10-03T17:27:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ecommerce.qa.testcases.LoginPageTest@3b81a1bc]" name="setUp" is-config="true" duration-ms="2446" started-at="2023-10-03T17:27:39Z" finished-at="2023-10-03T17:27:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.ecommerce.qa.testcases.LoginPageTest@3b81a1bc]" name="loginTest" duration-ms="796" started-at="2023-10-03T17:27:42Z" finished-at="2023-10-03T17:27:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ecommerce.qa.testcases.LoginPageTest@3b81a1bc]" name="tearDown" is-config="true" duration-ms="694" started-at="2023-10-03T17:27:43Z" finished-at="2023-10-03T17:27:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecommerce.qa.testcases.LoginPageTest -->
+    </test> <!-- Naveen Automation Lab -->
+  </suite> <!-- Hybrid Automation Framework of Web Application -->
+</testng-results>
